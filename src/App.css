@@ -91,3 +91,14 @@ button{
   color: #ffffff;
   border:none;
 }
+.bold{
+  font-weight: bolder;
+  font-style: italic;
+  color:cornflowerblue;
+}
+
+.error-message {
+  color:rgb(87, 139, 237);
+  font-weight: bolder;
+
+}
